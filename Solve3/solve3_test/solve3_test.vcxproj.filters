@@ -24,18 +24,15 @@
     <ClInclude Include="targetver.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="solve3.h">
-      <Filter>Заголовочные файлы</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
-    <ClCompile Include="Solve3.cpp">
+    <ClCompile Include="solve3_test.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
-    <ClCompile Include="lab_6_1.cpp">
+    <ClCompile Include="..\Solve3\Solve3.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
   </ItemGroup>

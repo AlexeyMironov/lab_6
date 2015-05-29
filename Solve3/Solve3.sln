@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Solve3", "Solve3\Solve3.vcxproj", "{B806B1F2-25F1-4B2D-B8F8-5B3B94CB1813}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solve3_test", "solve3_test\solve3_test.vcxproj", "{0FC4AB38-E0CF-4687-B580-55898F32B773}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{B806B1F2-25F1-4B2D-B8F8-5B3B94CB1813}.Debug|Win32.Build.0 = Debug|Win32
 		{B806B1F2-25F1-4B2D-B8F8-5B3B94CB1813}.Release|Win32.ActiveCfg = Release|Win32
 		{B806B1F2-25F1-4B2D-B8F8-5B3B94CB1813}.Release|Win32.Build.0 = Release|Win32
+		{0FC4AB38-E0CF-4687-B580-55898F32B773}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FC4AB38-E0CF-4687-B580-55898F32B773}.Debug|Win32.Build.0 = Debug|Win32
+		{0FC4AB38-E0CF-4687-B580-55898F32B773}.Release|Win32.ActiveCfg = Release|Win32
+		{0FC4AB38-E0CF-4687-B580-55898F32B773}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
